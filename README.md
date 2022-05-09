@@ -5,6 +5,7 @@ a informatiky (FEI) na Slovenskej technickej univerzite (STU).
 
 - [Zadanie 1 2021/22 - Strelené kačky](https://github.com/Interes-Group/zadanie-1-strelene-kacky-rajszabi)
 - [Zadanie 2 2021/22 - Reversi](https://github.com/Interes-Group/zadanie-2-reversi-rajszabi)
+- Zadanie 3 2021/22 - Knihy  (in progress)
 
 <!---
 rajszabi/rajszabi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
